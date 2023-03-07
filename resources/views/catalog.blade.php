@@ -4,11 +4,6 @@
      <!-- 360 view  -->
      <section id="portfolio" class="portfolio">
       <div class="container mt-5">
-{{-- 
-        <div class="section-title">
-          <h2>Catalog</h2>
-        </div> --}}
-
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
